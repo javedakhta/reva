@@ -1,0 +1,48 @@
+body.sigin-body {
+    background-color: aliceblue;
+    
+}
+
+
+
+.container.signin {
+    text-align: center;
+    align-content: center;
+    
+    margin-top: 8%;
+    
+}
+
+.card.signin-card {
+    
+    padding: 40px 0px 20ox;
+    background-color: #f4f4f4;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+}
+
+.img-fluid.signin-img {
+    padding: 0 2rem 2re;
+    margin: auto;
+    display: block;
+    width: 70%;
+}
+
+button.signin-btn {
+    color: #ffffff;
+    background-color: #d64829;
+    width: 100%;
+    
+    
+}
+
+/*
+.row {
+    background-color: aquamarine;
+    height: 4.7rem;
+}
+
+[class*="col-"] {
+    background-color:burlywood;
+    height: 4.2rem;
+    border: 2px solid rgba(0, 0, 0,0.3);
+}*/

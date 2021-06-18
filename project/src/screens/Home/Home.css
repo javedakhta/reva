@@ -1,0 +1,25 @@
+
+
+.RevaLogo {
+    width: 350px;
+    height: 110px;
+  }
+  .MeetLogo {
+    width: 500px;
+    height: 400px;
+    align-content: flex-end;
+  }
+  .HomePic {
+    width: 1000px;
+    height: 350px;
+    margin-left: 800px;
+  }
+  button {
+    border-radius: 30px;
+    border: none;
+    color: white;
+    background-color: rgba(22, 90, 207, 0.76);
+    height: 45px;
+    width: 150px;
+    margin-left: 10px;
+  }
